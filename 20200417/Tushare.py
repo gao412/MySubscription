@@ -6,7 +6,7 @@ Created on Sat Apr 18 20:36:23 2020
 """
 
 import tushare as ts
-token = 'fa1d610c5755403e108bff96c6d6b660c4a004cb36affbb3e4da70c5'
+token = '设置你的token'
 ts.set_token(token)
 pro = ts.pro_api()
 
